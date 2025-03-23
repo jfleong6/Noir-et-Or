@@ -2,13 +2,14 @@
 
 ### Paleta de Colores
 
-- **Primario:** #FF5722 (Naranja intenso, representa energía y dinamismo).
-- **Secundario:** #FFC107 (Amarillo vibrante, relacionado con la comida y calidez).
-- **Neutro:** #F5F5F5 (Gris claro, aporta limpieza y modernidad).
-- **Contraste:** #212121 (Negro intenso, para resaltar información clave).
+Amarillo vibrante (#FFC107) → Aporta energía, calidez y estimula el apetito.
+Café (#502108) → Evoca naturalidad, tradición y confort.
+Gris claro (#F5F5F5) → Brinda limpieza, modernidad y equilibrio.
+Negro intenso (#212121) → Resalta información clave con elegancia.
+Blanco (#FFFFFF) → Transmite frescura, amplitud y pulcritud.
 
 ### Tipografía
 
-- **Fuente Principal:** Poppins (Sans-serif, moderna y amigable).
-- **Fuente Secundaria:** Open Sans (Sans-serif, legible y profesional).
+- **Fuente Principal:** anaktoria ( Moderna y amigable, ideal para títulos y elementos destacados.).
+- **Fuente Secundaria:** Open Sans (Legible y profesional, perfecta para textos largos y descripciones.).
 
