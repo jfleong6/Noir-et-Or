@@ -18,3 +18,7 @@ En Noir et Or, buscamos ofrecer:
 Próximamente.
 
 ¡Ven y disfruta de una experiencia culinaria inolvidable en Noir et Or!
+
+# Interfaz Noir et Or
+
+- [Interfaz de Administración](int_admin.md): Menu principal de administración.
